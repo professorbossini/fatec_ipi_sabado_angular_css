@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fatec-ipi-sabado-css"
+    }
+  },
+  "defaultProject": "fatec-ipi-sabado-css",
+  "cli": {
+    "analytics": "a3b10c84-6b0d-4041-a05e-2aa19015d486"
+  }
 }
